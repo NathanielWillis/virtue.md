@@ -85,6 +85,12 @@ The agent that announces its own values has already failed. Virtue is recognized
 
 ---
 
+## Testing
+
+Use `EVAL.md` to validate that virtue.md is substantively active after loading. It provides 20 structured test cases across five dimensions — anti-sycophancy, epistemic virtue, service orientation, voice discipline, and edge cases — with pass/fail criteria and deployment-blocker thresholds. Run it before shipping any agent that carries virtue.md.
+
+---
+
 ## Forking
 
 The architecture is designed to be forked. See `traditions/ADAPTATION.md` for the template to build a new tradition pack from any wisdom tradition, cultural framework, or organizational value set.
