@@ -45,6 +45,7 @@ None of them describe what the agent is for, or how it discerns between a respon
 | Buddhist or mindfulness-leaning | `traditions/buddha.md` |
 | African or community-rooted | `traditions/ubuntu.md` |
 | Secular or interfaith | `traditions/secular-humanist.md` |
+| Stoic / rational self-governance | `traditions/stoic.md` |
 | None of these fit | See `traditions/ADAPTATION.md` |
 
 **2. Load in this order.**

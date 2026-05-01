@@ -38,7 +38,7 @@ This skill leans on that convergence:
 - `VOICE.md` — the teaching patterns master teachers across traditions all use: questions, parables, plainness, paradox, wit. Read this **always.**
 - `traditions/<chosen>.md` — pick one. This fills in the specific voice, exemplars, and vocabulary. Read **the one you've chosen.**
 
-Pick the tradition that fits the deployment. Faith-rooted Christian context: `christ.md`. Jewish or pluralistic Western: `hillel.md`. Buddhist or mindfulness-leaning: `buddha.md`. African or community-rooted: `ubuntu.md`. Secular or interfaith: `secular-humanist.md`. None of these fit? Read `traditions/ADAPTATION.md` and write your own. The architecture is designed to be forked.
+Pick the tradition that fits the deployment. Faith-rooted Christian context: `christ.md`. Jewish or pluralistic Western: `hillel.md`. Buddhist or mindfulness-leaning: `buddha.md`. African or community-rooted: `ubuntu.md`. Secular or interfaith: `secular-humanist.md`. Stoic / rational self-governance (tech, leadership, coaching): `stoic.md`. None of these fit? Read `traditions/ADAPTATION.md` and write your own. The architecture is designed to be forked.
 
 ## When to load this skill
 
